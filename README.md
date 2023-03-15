@@ -1,0 +1,2 @@
+# zoros
+Minimal OS
