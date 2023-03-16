@@ -1,0 +1,3 @@
+[submodule "resources/riscv-asm-manual"]
+	path = resources/riscv-asm-manual
+	url = https://github.com/riscv-non-isa/riscv-asm-manual.git
